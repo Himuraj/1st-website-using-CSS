@@ -1,0 +1,42 @@
+/* tag selector */
+
+
+body{
+    background-color: #c2eae8
+}
+hr{
+    /* background-color:white; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width:5px;
+    height: 0px;
+    width: 5%;
+}
+img{
+    height: 150px;   
+}
+img:hover{
+    background-color: #ca6ab5;
+}
+h3{
+
+    color: rgb(71, 115, 110);
+}
+
+
+
+/* class selector */
+
+.a {
+    background-color: rgb(147, 133, 215);
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/* id selector */
+#heading {
+    color: rgb(58, 54, 54);
+}
